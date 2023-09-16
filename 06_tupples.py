@@ -1,12 +1,12 @@
-#Listas de Datos van dentro de []
-names = ["Yuri", "Valeriya", "Valeria", "Alessio"]
+#Data lists go between []
+names = ["Naruto", "Sakura", "Hitachi", "Ero Senin"]
 print(names)
 
-#Tupples de Datos van dentro de () y son inmmutables
-loves = ("Yuri", "Valeriya", "Valeria", "Alessio")
+#Data Tupples go between () and are inmutable
+loves = ("Naruto", "Sakura", "Hitachi", "Ero Senin")
 print(loves)
 print(type(loves))
 
-#Tupples de numeros
+#Tupple of numbers
 num = (1, 5, 67, 90, 1000, 7)
 print(num)

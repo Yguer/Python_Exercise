@@ -10,5 +10,5 @@ print(num1)
 
 num1 /= 3
 print(num1)
-#Para redondear a 2 Decimales:
+#Rounding to 2 Decimales:
 print(f"{num1:.2f}")

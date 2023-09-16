@@ -1,10 +1,10 @@
-#Ejercicio: Tabla de Multiplicar del 2:
+#Exercise: Multiplication Table by 2:
 
 for i in range(1,11):
     result = 2 * i
     print(result)
 
-#Mejorando el output:
+#Improving the output:
 for i in range(1,11):
     result = 2 * i
     print(f"{2} x {i} = {result}")

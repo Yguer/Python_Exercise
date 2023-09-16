@@ -1,4 +1,6 @@
-variable_string = "Yuri"
+#Variables
+
+variable_string = "Goku"
 print(variable_string)
 
 variable_int = 1978

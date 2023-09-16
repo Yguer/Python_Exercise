@@ -1,10 +1,12 @@
-tiempo = input("Que Tiempo Hace? (Lluvia, Sol o Tormenta) ")
+#Conditionals
 
-if tiempo=="Lluvia":
-    print("Llevate un paraguas")
-elif tiempo=="Sol":
-    print("Llevate una gorra")
-elif tiempo=="Tormenta":
-    print("No salgas de casa")
+weather = input("How is the Weather outside? (Rainy, Sunny or Stormy) ")
+
+if weather=="Rainy":
+    print("Bring an Umbrella")
+elif weather=="Sunny":
+    print("Bring Sunglasses")
+elif weather=="Stormy":
+    print("Better Stay Home!")
 else:
-    print("Respuesta Incorrecta")
+    print("Wrong Answer")

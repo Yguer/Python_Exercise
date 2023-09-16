@@ -1,4 +1,4 @@
-#Loop While: Se ejecuta mientras la condicion se cumpla
+#Loop While: 
 
 count = 1
 

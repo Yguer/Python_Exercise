@@ -1,5 +1,5 @@
-#Listas de Datos
-names = ["Yuri", "Valeriya", "Valeria", "Alessio"]
+#List of Data
+names = ["Goku", "Sakura", "Hitachi", "Ero Senin"]
 print(names)
 
 numbers = [1, 167, 89, 1000.5]
@@ -14,7 +14,7 @@ print(matrix)
 other = ["Hola", 2, True]
 print(other)
 
-#Extrayendo Datos:
+#Extracting Data:
 print(names[1])
 print(names[2])
 print(names, numbers)
@@ -22,7 +22,7 @@ print(names + numbers)
 name_numbers = names + numbers
 print(name_numbers)
 
-#Usando la funcion RANGE para mostrar un rango:
+#Using RANGE function for showing a range:
 rango = list(range(0,10))
 print(rango)
 
